@@ -6,6 +6,8 @@
 
 A speed-reading PWA for the brainrot generation. Upload a PDF, set your pace, and watch the text stream across your screen while familiar dopamine-bait videos loop in the background. It won't fix your attention span, but it'll trick your brain into finishing a book.
 
+## Project will be maintained from https://github.com/rot-n-read/rot-n-read
+
 ## Screenshots
 
 <p align="center">
